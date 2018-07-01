@@ -1,0 +1,13 @@
+{
+    "name": "golovastov/les03",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Konstantin",
+            "email": "kotjane@ya.ru"
+        }
+    ],
+    "require": {
+        "twig/twig": "2.0"
+    }
+}
